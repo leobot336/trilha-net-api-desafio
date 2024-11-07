@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using TrilhaApiDesafio.Models;
+using System.Text.Json.Serialization;
 
 namespace TrilhaApiDesafio.Context
 {
